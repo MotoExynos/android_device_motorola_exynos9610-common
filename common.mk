@@ -366,8 +366,8 @@ PRODUCT_PACKAGES += \
     libmemset \
     libdemangle.vendor
 
-# Shipping API
-$(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_p.mk)
+# Indicate the first api level the device has been commercially launched on
+PRODUCT_SHIPPING_API_LEVEL := 28
 
 # Thermal
 PRODUCT_PACKAGES += \
