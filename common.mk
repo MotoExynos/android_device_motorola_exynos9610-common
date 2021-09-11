@@ -319,10 +319,6 @@ PRODUCT_PACKAGES += \
     android.hardware.secure_element@1.2 \
     android.hardware.secure_element@1.2.vendor
 
-# RenderScript HAL
-PRODUCT_PACKAGES += \
-    android.hardware.renderscript@1.0-impl
-
 # secure_element
 PRODUCT_PACKAGES += \
     android.hardware.secure_element@1.0 \
