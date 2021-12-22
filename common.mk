@@ -65,6 +65,7 @@ PRODUCT_PACKAGES += \
     android.hardware.bluetooth.a2dp@1.0.vendor \
     android.hardware.bluetooth@1.0-impl \
     android.hardware.bluetooth@1.0-service \
+    libldacBT_bco \
     libbt-vendor
 
 PRODUCT_COPY_FILES += \
