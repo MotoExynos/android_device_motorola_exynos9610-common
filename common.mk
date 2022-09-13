@@ -214,10 +214,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.light-service.samsung
 
-# Livedisplay
-PRODUCT_PACKAGES += \
-    vendor.lineage.livedisplay@2.0-service.exynos9610
-
 # Media
 PRODUCT_PACKAGES += \
     libcodec2-hidl-defaults@1.1 \
