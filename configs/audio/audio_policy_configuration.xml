@@ -158,7 +158,6 @@
 
         </module>
 
-<<<<<<< HEAD
         <module name="vx_motvr" halVersion="3.0">
             <mixPorts>
                 <mixPort name="primary input" role="sink" flags="AUDIO_INPUT_FLAG_HW_HOTWORD">
